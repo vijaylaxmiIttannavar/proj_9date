@@ -5,8 +5,16 @@ using namespace std;
 
 int main()
 {
-	cout << add(2, 3) << endl;
-	cout << sub(3, 4) << endl;
+	int num1, num2; 
+	while (true)
+	{
+		cout << "Enter num1 : ";
+		cin >> num1;
+			cout << "Enter num2 : ";
+		cin >> num2; 
 
+			cout << add(num1 , num2) << endl;
+		cout << sub(num1, num2) << endl;
+	}
 	return 0;
 }
