@@ -1,0 +1,7 @@
+# ninja log v5
+3	792	7737503347333483	CMakeFiles/mylib.dir/src/simp.cpp.obj	82ff1fcea1fe13da
+1244	1727	7737503356552220	test_add01.exe	dda70261a222e0f7
+796	1131	7737503350302226	mylib.lib	974d61f5e6dfe5df
+17	1244	7737503352020976	CMakeFiles/test_add01.dir/tests/test_add01.cpp.obj	9f839cb76fbd944e
+12	1253	7737503352020976	CMakeFiles/MyApp.dir/src/main.cpp.obj	3015ae1569c15c2c
+1253	1732	7737503356708402	MyApp.exe	a3fa6e9b678a9726
